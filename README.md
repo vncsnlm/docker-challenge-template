@@ -1,1 +1,1 @@
-# docker-challenge-template
+This project is centered around the utilization of containerization tools like Docker to enhance technical capabilities and gain practical experience relevant to the content covered in the Operating Systems and Cloud Computing course.
